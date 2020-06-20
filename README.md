@@ -9,6 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 Node: version 12 or higher
+
 Yarn: version 1
 
 ### Installing
@@ -44,6 +45,6 @@ The tests are going to verify if it's possible to create, update, list and delet
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md]() file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/twistershark/concepts-reactjs/blob/master/LICENSE) file for details
 
 
